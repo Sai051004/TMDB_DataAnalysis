@@ -34,15 +34,15 @@ It suggests similar movies based on user selection and displays details such as 
 4. **Machine Learning Model:**  
    - The model is trained and evaluated in `machineLearningAlgo.ipynb`, which includes feature extraction and similarity computation.
 
-**How To Run** 
+**How To Run:-** 
 ![How To Run](https://github.com/Sai051004/TMDB_DataAnalysis/blob/main/Screenshot%202025-12-07%20150825.png)
-**Image** 
+**Image:** 
 ![Image](https://github.com/Sai051004/TMDB_DataAnalysis/blob/main/Screenshot%202025-12-07%20150611.png)
-**Example1** 
+**Example1:** 
 ![Example1](https://github.com/Sai051004/TMDB_DataAnalysis/blob/main/Screenshot%202025-12-07%20145525.png)
-**Example2** 
+**Example2:** 
 ![Example2](https://github.com/Sai051004/TMDB_DataAnalysis/blob/main/Screenshot%202025-12-07%20151239.png)
-**Example3** 
+**Example3:** 
 ![Example3](https://github.com/Sai051004/TMDB_DataAnalysis/blob/main/Screenshot%202025-12-07%20151218.png)
 
 
